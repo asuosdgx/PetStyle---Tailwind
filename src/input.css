@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme{
+    --bg-blue-950: oklch(0.3382 0.1307 314.47);
+}
